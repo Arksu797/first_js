@@ -1,2 +1,3 @@
 # first_js
-Sanskar singh
+Sanskar rai
+
